@@ -7,3 +7,5 @@
   <!-- GitHub Top Languages Image com tema city_lights -->
   <img height="155em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoifr&layout=compact&langs_count=16&theme=city_lights&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000&border_color=00FFFF">
 </div>
+
+![snake gif](https://github.com/joaoifr/joaoifr/blob/output/github-contribution-grid-snake.svg)
