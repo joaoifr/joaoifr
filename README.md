@@ -1,6 +1,6 @@
 Sou academico no senac hub
 
-<div style="display: flex; gap: 10px; background-color: #000; padding: 15px; border-radius: 10px; align-items: center;">
+<div style="display: flex; gap: 0px; background-color: #000; padding: 15px; border-radius: 10px; align-items: center;">
   <!-- GitHub Stats Image com tema city_lights -->
   <a href="https://beacons.ai/joaoifr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoifr&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true">
