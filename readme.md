@@ -1,11 +1,34 @@
-<div style="display: flex; gap: 5px; background-color: #000; padding: 5px; border-radius: 10px; align-items: center; max-width: 100%;">
-  <!-- GitHub Stats Image com tema city_lights -->
-  <a href="https://beacons.ai/joaoifr">
-    <img height="155em" width="auto" src="https://github-readme-stats.vercel.app/api?username=joaoifr&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true">
-  </a>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+JoãoVitor!;" />
+</h1>
 
-  <!-- GitHub Top Languages Image com tema city_lights -->
-  <img height="155em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoifr&layout=compact&langs_count=16&theme=city_lights&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000&border_color=00FFFF">
+<div  align="center" >
+  - 🔭 Atualmente estou trabalhando como..
+  <br>
 </div>
 
-![snake gif](https://github.com/joaoifr/joaoifr/blob/output/github-contribution-grid-snake-dark.svg)
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=python,html,github,figma," />
+</div>
+
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=joaoifr&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=joaoifr&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
+</picture>
+</div>
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
