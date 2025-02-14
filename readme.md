@@ -3,7 +3,7 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estou trabalhando como..
+  - 🔭 Atualmente estou trabalhando...
   <br>
 </div>
 
