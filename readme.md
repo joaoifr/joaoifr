@@ -10,7 +10,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=python,html,css,figma,my sql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,figma,mysql" />
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
